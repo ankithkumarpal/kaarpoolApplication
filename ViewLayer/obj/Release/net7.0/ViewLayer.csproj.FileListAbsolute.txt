@@ -1,0 +1,15 @@
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\bin\Release\net7.0\ViewLayer.deps.json
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\bin\Release\net7.0\ViewLayer.dll
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\bin\Release\net7.0\ViewLayer.pdb
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\bin\Release\net7.0\Models.dll
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\bin\Release\net7.0\Models.pdb
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\obj\Release\net7.0\ViewLayer.csproj.AssemblyReference.cache
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\obj\Release\net7.0\ViewLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\obj\Release\net7.0\ViewLayer.AssemblyInfoInputs.cache
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\obj\Release\net7.0\ViewLayer.AssemblyInfo.cs
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\obj\Release\net7.0\ViewLayer.csproj.CoreCompileInputs.cache
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\obj\Release\net7.0\ViewLayer.csproj.CopyComplete
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\obj\Release\net7.0\ViewLayer.dll
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\obj\Release\net7.0\refint\ViewLayer.dll
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\obj\Release\net7.0\ViewLayer.pdb
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\ViewLayer\obj\Release\net7.0\ref\ViewLayer.dll

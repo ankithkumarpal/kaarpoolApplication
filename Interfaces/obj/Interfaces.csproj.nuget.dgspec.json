@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Interfaces\\Interfaces.csproj": {}
+  },
+  "projects": {
+    "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Interfaces\\Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\ankith\\.nuget\\packages\\",
+        "outputPath": "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ankith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Models\\Models.csproj": {
+                "projectPath": "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Models\\Models.csproj"
+              },
+              "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\ViewLayer\\ViewLayer.csproj": {
+                "projectPath": "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\ViewLayer\\ViewLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\ankith\\.nuget\\packages\\",
+        "outputPath": "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ankith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\ViewLayer\\ViewLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\ViewLayer\\ViewLayer.csproj",
+        "projectName": "ViewLayer",
+        "projectPath": "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\ViewLayer\\ViewLayer.csproj",
+        "packagesPath": "C:\\Users\\ankith\\.nuget\\packages\\",
+        "outputPath": "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\ViewLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ankith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Models\\Models.csproj": {
+                "projectPath": "D:\\taskTechnovert\\task-5-car-pooling-web-api-csharp-ankithpal\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

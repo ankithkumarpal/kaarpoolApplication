@@ -1,0 +1,17 @@
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\bin\Release\net7.0\Interfaces.deps.json
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\bin\Release\net7.0\Interfaces.dll
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\bin\Release\net7.0\Interfaces.pdb
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\bin\Release\net7.0\Models.dll
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\bin\Release\net7.0\ViewLayer.dll
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\bin\Release\net7.0\Models.pdb
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\bin\Release\net7.0\ViewLayer.pdb
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\obj\Release\net7.0\Interfaces.csproj.AssemblyReference.cache
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\obj\Release\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\obj\Release\net7.0\Interfaces.AssemblyInfoInputs.cache
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\obj\Release\net7.0\Interfaces.AssemblyInfo.cs
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\obj\Release\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\obj\Release\net7.0\Interfaces.csproj.CopyComplete
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\obj\Release\net7.0\Interfaces.dll
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\obj\Release\net7.0\refint\Interfaces.dll
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\obj\Release\net7.0\Interfaces.pdb
+D:\taskTechnovert\task-5-car-pooling-web-api-csharp-ankithpal\Interfaces\obj\Release\net7.0\ref\Interfaces.dll
